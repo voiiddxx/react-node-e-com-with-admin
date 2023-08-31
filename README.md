@@ -1,70 +1,80 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# E-Commerce Web Application 🛒
 
-## Available Scripts
+An E commerce application built by using reactjs , nodejs , express js , mongo db with admin pannel!🔔
 
-In the project directory, you can run:
 
-### `npm start`
+## Acknowledgements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Main prupose of this e commerce of project is to learn about how the realtime crud opreation works with react, this project is not fully completed , that was not even moto to complete the main purpose was to just usderstand the concept and this project has well enough feature to understand how to integreate rest api with react  how to manage mutliple context api , how to sepreate buisness logic from ui and many more!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Information ⚡
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- user category based authentication
+- Admin Section
+- Admin can Upload Product
+- Admin Can view Product
+- User Can Access Products
+- Complete Backend written using expressjs 
+- data storage: MongoDB
+- Used Multiple context api for integreation
+- proper sepreation of buisness logic from ui logic
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 About Me
+I'm a full stack developer currently pursuing B-tech CSE (2021)
 
-### `npm run eject`
+i Code in Flutter Too
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Splash Screen
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/6929b708-a0b2-477e-ac7f-f4d9b4ecd69d)
+registration Screen
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/7dc7b6c3-7b40-41af-84de-c642563a1e9c)
+Login Screen
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/a6832da6-23f8-4fbc-97fc-a5636c37d85a)
+Admin pannel
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/641d2304-0d1a-40d2-a75c-1f49eb5d651b)
+Add product
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/1383fcd6-a65f-47e6-a5d5-72dee3781ed8)
+Admin Respective Product
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/eb3594af-67d7-4c21-a586-66e858a6b72f)
+Users Product 
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/f6d20e47-4a1b-40b9-86ab-b89be029fccb)
+![App Screenshot](https://github.com/voiiddxx/bazaar/assets/95859137/cfd40ebd-fa8a-43ae-9ff7-40f5f2d8af15)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Tech Stack 💻
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Client:** React , CSS
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Server:** Node, Express
 
-### Code Splitting
+**Database:** MongoDB
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Insert gif or link to demo
 
-### Making a Progressive Web App
+    
+## FAQ
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Is it fully fledged e commerce?
 
-### Advanced Configuration
+No 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+#### Is it enough to understand the react and node fundamentals
 
-### Deployment
+BIG YES
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For support, email nikhildesign00@gmail.com
+
