@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.parent{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.right{
+    height: 100vh;
+    width: 100%;
+    background-color: #1241e8;
+    flex-basis: 50%;
+}
+.left{
+    flex-basis: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.left h1 {
+    color: #1241e8;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.left h2{
+    font-family: 'Lato', sans-serif;
+    margin-top: 3px;
+    font-size: 35px;
+    color: rgb(33, 33, 33);
+    font-weight: 900;
+}
+
+.left p{
+    margin-top: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    color: rgb(31, 31, 31);
+}
+
+form{
+    padding-top: 30px;
+
+}
+form p{
+    padding-bottom: 8px;
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+
+}
+
+
+form input{
+    height: 40px;
+    width: 50%;
+    border: 0.3px solid rgb(96, 96, 96);
+    border-radius: 2px;
+    padding-left: 10px;
+    font-family: 'Lato', sans-serif;
+}
+
+.dropdown{
+    margin-top: 25px;
+}
+select{
+    height: 40px;
+    width: 51.5%;
+    padding-left: 10px;
+}
+
+.button{
+    background-color: rgb(29, 29, 29);
+    color: white;
+    border: none;
+    font-family: 'Lato', sans-serif;;
+    font-weight: 700;
+}
+
+.login{
+    padding-top: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+}
+
+.login span{
+    color: #1241e8;
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+}
+
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.right img{
+    border-radius: 50%;
+    
+}
+
+.right h1{
+    background-color: transparent;
+    color: white;
+    margin-top: 25px;
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.right p{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 15px;
+    align-items: center;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+}
+
+.toast{
+    background-color: rebeccapurple;
+}

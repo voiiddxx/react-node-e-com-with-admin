@@ -1,0 +1,7 @@
+.product-data{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-left: 250px;
+}

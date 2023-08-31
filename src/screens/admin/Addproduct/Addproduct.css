@@ -1,0 +1,105 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.add-main{
+    display: flex;
+}
+
+.add-heading{
+    color: rgb(32, 32, 255);
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.heading-p {
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-right: 250px;
+    font-size: 13px;
+    color: rgb(79, 79, 79);
+}
+
+.border{
+    height: 2px;
+    width: 80%;
+margin-top: 40px;
+    border-bottom: 0.2px solid grey;
+}
+
+
+.product-form{
+    margin-top: 30px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.product-form .addproducttext{
+    margin-top: 10px;
+    width: 350px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    color: black;
+    background-color: rgb(230, 230, 230);
+
+}
+
+
+input[type=text]:active, input[type=text]:focus {
+    background-color: white;
+}
+input[type=submit]:active, input[type=submit]:focus {
+    background-color: black;
+}
+::placeholder{
+    color: black;
+    font-family: 'Lato', sans-serif;
+    padding-left: 15px;
+
+}
+
+.submitbutton{
+    height: 40px;
+    width: 350px;
+    background-color: rgb(78, 78, 248);
+    color: white;
+    border: none;
+    font-weight: 700;
+}
+
+
+.pro-image{
+    height: 200px;
+    width: auto;
+    margin: 15px;
+}
+
+.show-button{
+    height:40px ;
+    width: 140px;
+    background-color: rgb(218, 218, 218);
+    margin-top: 1px;
+    border-radius: 8px;
+}
+
+.show{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.image-part{
+    margin-left: 25px;
+    margin-top: 40px;
+}
+
+.admin-dropdown{
+    width: 600px;
+}

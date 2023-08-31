@@ -1,0 +1,93 @@
+*{
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+}
+.card{
+    height: 450px;
+    width: 330px;
+    border-radius: 10px;
+    
+   
+}
+
+.card-image{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     background-color: #f5f6f6;
+     border-radius: 10px;
+    
+}
+
+.card-image img{
+    height: 200px;
+    width: auto;
+}
+
+.card-image img:hover{
+    height: 230px;
+    width: auto;
+    transition: 0.1s;
+}
+
+.card-text{
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 5px;
+    gap: 4px;
+}
+
+.card-text .up-text{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    
+
+}
+
+.card-text .up-text h1{
+    font-size: 19px;
+    color: rgb(33, 33, 33);
+}
+
+.card-text .up-text h2{
+    font-size: 15px;
+    
+}
+
+.card-text .detail{
+    font-family: 'Lato', sans-serif;
+    margin-top: 7px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.cart-button{
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    border: 0.5px solid black;
+    background-color: rgb(29, 29, 29);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.cart-button:hover{
+    border: 0.5px solid black;
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+

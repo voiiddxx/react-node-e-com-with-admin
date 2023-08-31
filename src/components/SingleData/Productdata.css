@@ -1,0 +1,31 @@
+.pro-text{
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.pro-text h1{
+    color: blue;
+    font-weight: 900;
+
+}
+
+.pro-text p{
+    margin-right: 300px;
+    font-size: 12px;
+    margin-top: 10px;
+    line-height: 0.5cm;
+}
+
+.pro-text h2{
+    font-size: 25px;
+    margin-top: 30px;
+    color: rgb(42, 42, 42);
+    font-weight: 800;
+}
+.buy{
+    background-color: rgb(9, 9, 9);
+    color: white;
+    margin-right: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+}

@@ -1,0 +1,56 @@
+.header{
+    height: 400px;
+    width: auto;
+    background-color: #fbf0e4;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30PX;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+.left-header{
+    flex-basis: 50%;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.left-header h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.left-header p{
+    margin-right: 150px;
+    padding-top: 10px;
+}
+
+.check-button{
+    margin-top: 15px;
+    background-color: rgb(28, 28, 28);
+    color: white;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.check-button:hover{
+    border: 0.5px solid black;
+    background-color: transparent;
+    color: black;
+    transition: 0.5s;
+}
+

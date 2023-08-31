@@ -1,0 +1,59 @@
+.view-parent{
+    display: flex;
+}
+
+.admin-card{
+    height: 400px;
+    width: 350px;
+    margin-bottom: 10px;
+}
+.admin-card-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 100%;
+    background-color: #f5f6f6;
+    border-radius: 10px;
+}
+
+.admin-card-image img{
+    height: 200px;
+    width: auto;
+}
+
+.admin-card-image img:hover{
+    height: 230px;
+    width: auto;
+    transition: 0.5s;
+}
+
+.admin-card-text .up-head{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.detail{
+    font-size: 12px;
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    color: rgb(71, 71, 71);
+}
+
+.delete-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.delete-button h1{
+    font-size: 15px;
+}

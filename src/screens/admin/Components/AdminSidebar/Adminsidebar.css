@@ -1,0 +1,57 @@
+
+*{
+    font-family: 'Lato', sans-serif;
+}
+.sidebar-main{
+    height: 100vh;
+    width: 350px;
+    border-right: 0.2px solid grey;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 15px;
+    padding-left: 20px;
+
+}
+.side-logo h1{
+    color: black;
+    font-weight: 600;
+    font-size: 25px;
+
+}
+
+.side-links{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    
+}
+
+.link1{
+    display: flex;
+    gap: 20px;
+}
+
+.link1 p{
+    color: rgb(29, 29, 29);
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.link2{
+    display: flex;
+    gap: 15px;
+    margin-top: 250px;
+}
+
+.link2 p{
+    color: rgb(159, 0, 138);
+    font-weight: 600;
+
+}
+.email{
+    font-size: 10px;
+    margin-top: 10px;
+    margin-left: 25px;
+}

@@ -1,0 +1,12 @@
+.view-main{
+    display: flex;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-left: 40px;
+    margin-top: 50px;
+}
