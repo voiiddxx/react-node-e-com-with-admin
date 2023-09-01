@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(authRouter);
 app.use(adminRouter);
 
- mongoose.connect("mongodb+srv://ursfan8102003:React123@cluster0.6a0w7ap.mongodb.net/?retryWrites=true&w=majority").then(()=>{
+ mongoose.connect("").then(()=>{
     console.log("connectd To Database 🎀");
  }).catch((e)=>{
 console.log(e);
